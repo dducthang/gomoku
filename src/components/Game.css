@@ -1,0 +1,11 @@
+.game{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bold{
+    font-weight: bold;
+    background-color: orange !important;
+    color: black !important;
+}
